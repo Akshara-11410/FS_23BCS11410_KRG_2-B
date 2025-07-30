@@ -8,7 +8,7 @@ It showcases my background, skills, projects, and contact form with a modern dar
 
 ## 🚀 Preview
 
-![Portfolio Screenshot](Screenshot (147).png)
+![Portfolio Screenshot](Portfolio/Screenshot (147).png)
 
 ---
 
