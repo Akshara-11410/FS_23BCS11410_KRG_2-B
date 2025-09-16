@@ -47,7 +47,6 @@ To implement a **dynamic product filtering system** that updates displayed anime
 ### 🎯 Filtered by Apparel
 ![Filtered Apparel Demo](https://github.com/Akshara-11410/FS_23BCS11410_KRG_2-B/blob/72bdd744d13563f3f0d8114e6becee1da79583df/Exp%202/Screenshot%20(261).png)  
 
-> Replace `demo1.png` and `demo2.png` with your actual screenshots.  
 
 ---
 
