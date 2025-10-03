@@ -12,7 +12,7 @@ The app includes **3 pages** with navigation links:
 
 - **Home Page:** Sample content "My name is Akshara"  
 - **About Page:** Sample content "I am a CSE student at Chandigarh University"  
-- **Contact Page:** Sample content "My course is B.E CSE"
+- **Contact Page:** Sample content "My email id is 23bcs11410@cuchd.in"
 
 ## Project 2: Form App
 
