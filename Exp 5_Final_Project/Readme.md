@@ -1,5 +1,5 @@
 
-# 🔐r Login Page — YatraSathi
+# 🔐 Login Page — YatraSathi
 
 A beautifully designed ** Login Page** built with Material 3.  
 This is the welcoming interface for the **YatraSathi** app — featuring a full-screen background image, semi-transparent overlay, and a clean, modern login form.
@@ -9,7 +9,7 @@ This is the welcoming interface for the **YatraSathi** app — featuring a full-
 ## 🖼️ Screenshot
 
 <p align="center">
-  <img src="assets/screenshots/login_screen.png" alt="Login Screen" width="300"/>
+  <img src="https://github.com/Akshara-11410/FS_23BCS11410_KRG_2-B/blob/8411be2fbd502341f6e027aa89f64cd2dbe6930d/Exp%205_Final_Project/Login_ui.jpeg" alt="Login Screen" width="300"/>
 </p>
 
 
