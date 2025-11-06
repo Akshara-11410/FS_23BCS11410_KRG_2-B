@@ -7,7 +7,7 @@ The **YatraSathi app** allows users to explore the **Char Dham pilgrimage sites*
 ## 1️⃣ Destination Screen
 
 ### Screenshot
-![Destination Screen](destination_screen.png)  <!-- Replace with actual screenshot -->
+![Destination Screen](https://github.com/Akshara-11410/FS_23BCS11410_KRG_2-B/blob/f998aeb1ae293e5915f01d879fe53307a7795418/Exp%206_Final_Project/Destination.jpeg)  <!-- Replace with actual screenshot -->
 
 ### Aim
 To display an interactive map of India with **tappable markers** for Char Dham pilgrimage sites.
