@@ -40,7 +40,7 @@ This section of the **Char Dham Yatra App** showcases two interactive screens fo
 ## 📸 Screenshots
 
 ### Gallery Screen
-![Gallery Screen](assets/screenshots/gallery_screen.png)
+![Gallery Screen](https://github.com/Akshara-11410/FS_23BCS11410_KRG_2-B/blob/06646bc2361a6c0695e712d7d2ab68a0c6a602e4/Exp%207_Final_Project/frontend/gallery.jpeg)
 *View uploaded photos with captions and likes. Upload images from the device gallery.*
 
 ### History & Nearby Places Screen
