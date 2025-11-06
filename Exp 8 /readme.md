@@ -43,7 +43,7 @@ This section of the **Char Dham Yatra App** showcases two screens that help pilg
 ## 📸 Screenshots
 
 ### Travel Screen
-![Travel Screen](assets/screenshots/travel_screen.png)
+![Travel Screen](https://github.com/Akshara-11410/FS_23BCS11410_KRG_2-B/blob/90b32f1c81ead4f7fe68d6dd36e2a29c764d5265/Exp%208%20/frontend/travel.jpeg)
 *Search flights, trains, and buses to reach each Dham. Book directly via external websites.*
 
 ### Hotel & Restaurant Screen
