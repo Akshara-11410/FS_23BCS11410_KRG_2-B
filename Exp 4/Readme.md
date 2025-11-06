@@ -2,7 +2,7 @@
 # YatraSathi - Registration Screen
 
 ## Screenshot
-![Registration Screen](screenshot.png)  <!-- Replace 'screenshot.png' with your actual screenshot file -->
+![Registration Screen](https://github.com/Akshara-11410/FS_23BCS11410_KRG_2-B/blob/5a0e91ccbb0fa19eec587aa18d9ac679a166d960/Exp%204/assets/images/Screenshot%20(328).png) 
 
 ## Aim
 To design and implement a registration screen for the YatraSathi app with input validation.
