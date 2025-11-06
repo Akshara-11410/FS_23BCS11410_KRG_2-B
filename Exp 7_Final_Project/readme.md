@@ -1,39 +1,69 @@
-# 🕉️ Char Dham Yatra App — Temple Screens
+# 🕉️ Char Dham Yatra App — Gallery & History/Nearby Places Screens
 
-This section of the **Char Dham Yatra App** contains individual screens for each of the four sacred pilgrimage sites:  
-**Badrinath**, **Dwarka**, **Puri**, and **Rameswaram**.  
-Each screen displays a beautiful image background, brief description, and a back navigation button to return to the map view.
+This section of the **Char Dham Yatra App** showcases two interactive screens for each pilgrimage site:  
+
+1. **Gallery Screen** — Users can view and upload photos for each Dham, with likes and captions.  
+2. **History & Nearby Places Screen** — Provides historical background and nearby attractions for each Dham.
 
 ---
 
 ## 📁 Screens Included
 
 | Screen | Dart File | Description |
-|:-------|:-----------|:-------------|
-| 🏔️ **Badrinath** | `badrinath_screen.dart` | Dedicated to Lord Vishnu, located in Uttarakhand. |
-| 🕉️ **Dwarka** | `dwarka_screen.dart` | Ancient kingdom of Lord Krishna, located in Gujarat. |
-| 🌅 **Puri** | `puri_screen.dart` | Home to Lord Jagannath Temple in Odisha. |
-| 🌊 **Rameswaram** | `rameswaram_screen.dart` | Lord Shiva temple located in Tamil Nadu. |
+|--------|-----------|-------------|
+| 🖼️ **Gallery Screen** | `lib/dham_gallery_screen.dart` | View, upload, and like photos of each Dham. Photos are stored on Cloudinary via Node.js backend. |
+| 🏛️ **History & Nearby Places** | `lib/dham_details_screen.dart` | Displays historical information and nearby attractions for each Dham. |
 
 ---
 
-## ⚙️ Features
+## ⚙️ Features — Gallery Screen
 
-- Fullscreen background image of each temple.  
-- Dark overlay for better text readability.  
-- AppBar with temple name and theme color.  
-- Temple title, short information, and “Back to Map” button.  
-- Simple navigation via Flutter’s `Navigator.push()` and `Navigator.pop()`.
+- 📸 Upload photos from the device gallery.  
+- 🌐 **Cloudinary Integration** for image storage.  
+- 💬 Add captions and display the uploader's username.  
+- ❤️ Like functionality for each photo.  
+- 🔄 Pull-to-refresh to fetch the latest gallery updates.  
+- ✅ User login validation before upload.  
+- 🎨 Modern gradient-themed UI.
 
 ---
 
-## 🧭 Navigation Example
+## ⚙️ Features — History & Nearby Places Screen
 
-From the **Destination (Map) Screen**, navigation to each temple works like this:
+- 🏛️ Shows **historical background** of each Dham.  
+- 🗺️ Horizontal scrollable list of **nearby attractions** with images and distance.  
+- 🎨 Clean UI with top Dham image and scrollable content.  
+- 🖼️ Each Dham has a dedicated featured image.
+
+---
+
+## 📸 Screenshots
+
+### Gallery Screen
+![Gallery Screen](assets/screenshots/gallery_screen.png)
+*View uploaded photos with captions and likes. Upload images from the device gallery.*
+
+### History & Nearby Places Screen
+![History & Nearby Places Screen](assets/screenshots/history_nearby_screen.png)
+*Historical background and nearby attractions. Horizontal scrollable cards with images and distances.*
+
+---
+
+## 🧭 Navigation
+
+From **Dham Info Screen**:
 
 ```dart
 Navigator.push(
   context,
-  MaterialPageRoute(builder: (context) => BadrinathScreen()),
+  MaterialPageRoute(
+    builder: (context) => DhamGalleryScreen(dhamName: "Badrinath"),
+  ),
 );
 
+Navigator.push(
+  context,
+  MaterialPageRoute(
+    builder: (context) => DhamDetailsScreen(dhamName: "Badrinath"),
+  ),
+);
