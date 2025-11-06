@@ -44,7 +44,7 @@ This section of the **Char Dham Yatra App** showcases two interactive screens fo
 *View uploaded photos with captions and likes. Upload images from the device gallery.*
 
 ### History & Nearby Places Screen
-![History & Nearby Places Screen](assets/screenshots/history_nearby_screen.png)
+![History & Nearby Places Screen](https://github.com/Akshara-11410/FS_23BCS11410_KRG_2-B/blob/049ab6a25de5a4ac4499c28614d2e5cdfa77529c/Exp%207_Final_Project/frontend/history.jpeg)
 *Historical background and nearby attractions. Horizontal scrollable cards with images and distances.*
 
 ---
