@@ -47,7 +47,7 @@ This section of the **Char Dham Yatra App** showcases two screens that help pilg
 *Search flights, trains, and buses to reach each Dham. Book directly via external websites.*
 
 ### Hotel & Restaurant Screen
-![Hotel & Restaurant Screen](assets/screenshots/hotel_restaurant_screen.png)
+![Hotel & Restaurant Screen](https://github.com/Akshara-11410/FS_23BCS11410_KRG_2-B/blob/7a9fdc144980252af86b11b57aad3266cc18c7f2/Exp%208%20/frontend/hotels.jpeg)
 *Explore nearby hotels and restaurants with images, distance, and map directions.*
 
 ---
