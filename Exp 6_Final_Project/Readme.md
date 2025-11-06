@@ -42,7 +42,7 @@ To display an interactive map of India with **tappable markers** for Char Dham p
 ## 2️⃣ Dham Info Screen
 
 ### Screenshot
-![Dham Info Screen](dham_info_screen.png)  <!-- Replace with actual screenshot -->
+![Dham Info Screen](https://github.com/Akshara-11410/FS_23BCS11410_KRG_2-B/blob/acd9ecaf26d3fa36001e4708e27f872e78864a24/Exp%206_Final_Project/dham_info.jpeg)  <!-- Replace with actual screenshot -->
 
 ### Aim
 To display detailed information for a selected Char Dham, including **weather, hotels, travel, gallery, and nearby places**.
