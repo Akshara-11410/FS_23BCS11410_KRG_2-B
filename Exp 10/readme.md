@@ -1,4 +1,4 @@
-# YatraSathi - Backend (Node.js)
+# YatraSathi - Backend (Node.js)  Plus Frontend(Flutter) 
 
 A **Node.js backend** for the YatraSathi app — providing RESTful APIs for travel destinations, hotels, restaurants, galleries, and user authentication.  
 This backend serves data to the Flutter frontend and stores information in MongoDB.
