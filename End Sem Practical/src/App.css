@@ -1,0 +1,33 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.input-box {
+  padding: 10px;
+  width: 260px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+}
+
+.input-box:focus {
+  border-color: #007bff;
+}
+
+.employee-item {
+  background: burlywood;
+  padding: 10px;
+  margin-bottom: 8px;
+  border-radius: 6px;
+  width: 220px;
+  list-style: none;
+  font-size: 18px;
+}
